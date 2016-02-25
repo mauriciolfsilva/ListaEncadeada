@@ -1,0 +1,8 @@
+C:\Users\mauricio.silva\Desktop\ListaEncadeada\ListaEncadeada\bin\Debug\ListaEncadeada.exe.config
+C:\Users\mauricio.silva\Desktop\ListaEncadeada\ListaEncadeada\bin\Debug\ListaEncadeada.exe
+C:\Users\mauricio.silva\Desktop\ListaEncadeada\ListaEncadeada\bin\Debug\ListaEncadeada.pdb
+C:\Users\mauricio.silva\Desktop\ListaEncadeada\ListaEncadeada\obj\Debug\ListaEncadeada.Properties.Resources.resources
+C:\Users\mauricio.silva\Desktop\ListaEncadeada\ListaEncadeada\obj\Debug\ListaEncadeada.csproj.GenerateResource.Cache
+C:\Users\mauricio.silva\Desktop\ListaEncadeada\ListaEncadeada\obj\Debug\ListaEncadeada.exe
+C:\Users\mauricio.silva\Desktop\ListaEncadeada\ListaEncadeada\obj\Debug\ListaEncadeada.pdb
+C:\Users\mauricio.silva\Desktop\ListaEncadeada\ListaEncadeada\obj\Debug\ListaEncadeada.csprojResolveAssemblyReference.cache
