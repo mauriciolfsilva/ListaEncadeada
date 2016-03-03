@@ -6,3 +6,4 @@ C:\Users\mauricio.silva\Desktop\ListaEncadeada\ListaEncadeada\obj\Debug\ListaEnc
 C:\Users\mauricio.silva\Desktop\ListaEncadeada\ListaEncadeada\obj\Debug\ListaEncadeada.exe
 C:\Users\mauricio.silva\Desktop\ListaEncadeada\ListaEncadeada\obj\Debug\ListaEncadeada.pdb
 C:\Users\mauricio.silva\Desktop\ListaEncadeada\ListaEncadeada\obj\Debug\ListaEncadeada.csprojResolveAssemblyReference.cache
+C:\Users\mauricio.silva\Desktop\ListaEncadeada\ListaEncadeada\obj\Debug\ListaEncadeada.Form1.resources
